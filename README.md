@@ -1,7 +1,7 @@
 ## Hi there  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/54830cb2-dc51-4d15-bbb6-dd3605439f6c" />
 
 
-Meu nome é Renata, estou aprendendendo a desenvolver do  0.
+Meu nome é Renata, estou aprendendendo a desenvolver e criar projetos do 0.
 
 Com as ferramentas:
 <br>
